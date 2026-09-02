@@ -204,6 +204,7 @@ footer {
 }
 
 footer a {
+    font-size: medium;
     color: white;
     font-weight: bolder;
     text-decoration: none;
